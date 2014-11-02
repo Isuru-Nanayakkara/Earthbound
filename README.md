@@ -22,5 +22,5 @@ Restart Xcode.
 
 ### Credits
 
-* [Joe Bergantine](https://github.com/jbergantine) for the original [solor scheme](http://joebergantine.com/projects/color-schemes/birds-of-paradise/).
+* [Joe Bergantine](https://github.com/jbergantine) for the original [color scheme](http://joebergantine.com/projects/color-schemes/birds-of-paradise/).
 * [Peiwen Lu](https://github.com/P233) for inspiration. I found out about this color scheme thanks to his [version](https://github.com/P233/Syntax-highlighting-for-Swift) for Sublime Text editor.
