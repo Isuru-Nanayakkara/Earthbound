@@ -11,8 +11,7 @@ A color theme for Xcode. Created with Swift syntax in mind.
 
 * Available via [Alcatraz](https://github.com/supermarin/Alcatraz). Just search for *Earthbound*.
 * Alternatively you can download the .zip file of the repo, copy the `Earthbound.dvtcolortheme` file, go to the following path `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` and paste it inside the folder.
-
-Restart Xcode.
+* Restart Xcode.
 
 ## Credits
 
